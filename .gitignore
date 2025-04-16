@@ -1,0 +1,5 @@
+*.out
+*.in
+*.txt
+.DS_store
+*.json
